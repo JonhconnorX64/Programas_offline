@@ -1,0 +1,9 @@
+c:\users\kj387\onedrive\documentos\visual studio 2012\Projects\frmTriangulo.cs\frmTriangulo.cs\bin\Debug\frmTriangulo.cs.exe.config
+c:\users\kj387\onedrive\documentos\visual studio 2012\Projects\frmTriangulo.cs\frmTriangulo.cs\bin\Debug\frmTriangulo.cs.exe
+c:\users\kj387\onedrive\documentos\visual studio 2012\Projects\frmTriangulo.cs\frmTriangulo.cs\bin\Debug\frmTriangulo.cs.pdb
+c:\users\kj387\onedrive\documentos\visual studio 2012\Projects\frmTriangulo.cs\frmTriangulo.cs\obj\Debug\frmTriangulo.cs.csprojResolveAssemblyReference.cache
+c:\users\kj387\onedrive\documentos\visual studio 2012\Projects\frmTriangulo.cs\frmTriangulo.cs\obj\Debug\frmTriangulo.cs.frmTriangulo.resources
+c:\users\kj387\onedrive\documentos\visual studio 2012\Projects\frmTriangulo.cs\frmTriangulo.cs\obj\Debug\frmTriangulo.cs.Properties.Resources.resources
+c:\users\kj387\onedrive\documentos\visual studio 2012\Projects\frmTriangulo.cs\frmTriangulo.cs\obj\Debug\frmTriangulo.cs.csproj.GenerateResource.Cache
+c:\users\kj387\onedrive\documentos\visual studio 2012\Projects\frmTriangulo.cs\frmTriangulo.cs\obj\Debug\frmTriangulo.cs.exe
+c:\users\kj387\onedrive\documentos\visual studio 2012\Projects\frmTriangulo.cs\frmTriangulo.cs\obj\Debug\frmTriangulo.cs.pdb

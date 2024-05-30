@@ -1,0 +1,9 @@
+c:\users\jonhconnorx64\onedrive\documentos\visual studio 2012\Projects\Calcular Imc\Calcular Imc\bin\Debug\Calcular Imc.exe.config
+c:\users\jonhconnorx64\onedrive\documentos\visual studio 2012\Projects\Calcular Imc\Calcular Imc\bin\Debug\Calcular Imc.exe
+c:\users\jonhconnorx64\onedrive\documentos\visual studio 2012\Projects\Calcular Imc\Calcular Imc\bin\Debug\Calcular Imc.pdb
+c:\users\jonhconnorx64\onedrive\documentos\visual studio 2012\Projects\Calcular Imc\Calcular Imc\obj\Debug\Calcular Imc.csprojResolveAssemblyReference.cache
+c:\users\jonhconnorx64\onedrive\documentos\visual studio 2012\Projects\Calcular Imc\Calcular Imc\obj\Debug\Calcular_Imc.Form1.resources
+c:\users\jonhconnorx64\onedrive\documentos\visual studio 2012\Projects\Calcular Imc\Calcular Imc\obj\Debug\Calcular_Imc.Properties.Resources.resources
+c:\users\jonhconnorx64\onedrive\documentos\visual studio 2012\Projects\Calcular Imc\Calcular Imc\obj\Debug\Calcular Imc.csproj.GenerateResource.Cache
+c:\users\jonhconnorx64\onedrive\documentos\visual studio 2012\Projects\Calcular Imc\Calcular Imc\obj\Debug\Calcular Imc.exe
+c:\users\jonhconnorx64\onedrive\documentos\visual studio 2012\Projects\Calcular Imc\Calcular Imc\obj\Debug\Calcular Imc.pdb

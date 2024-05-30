@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcular Imc", "Calcular Imc\Calcular Imc.csproj", "{12420186-8148-427C-8B2A-D3FB80179876}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12420186-8148-427C-8B2A-D3FB80179876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12420186-8148-427C-8B2A-D3FB80179876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12420186-8148-427C-8B2A-D3FB80179876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12420186-8148-427C-8B2A-D3FB80179876}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
